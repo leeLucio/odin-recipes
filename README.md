@@ -1,2 +1,2 @@
 # Recipes Website
-## A website to see some recipes
+A website to see some recipes
